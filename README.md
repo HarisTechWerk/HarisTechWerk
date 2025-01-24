@@ -13,7 +13,8 @@
 - **Tools**: Azure, Docker, GitHub
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github.com/HarisTechWerk/HarisTechWerk)
+![Your GitHub Stats](https://github.com/HarisTechWerk/HarisTechWerk)
+![Top Languages](https://github.com/HarisTechWerk/HarisTechWerk)
 
 
 ## 🎓 Certifications
