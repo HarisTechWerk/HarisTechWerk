@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning .NET 8 and Azure
 - 🌱 I’m working on building projects to showcase my skills
 - 💼 I hold certifications in Azure Fundamentals, Scrum Master, and ISTQB Foundation
-- 📫 How to reach me:HarisDotNet@outlook.com | [LinkedIn](https://www.linkedin.com/in/haris-qureshi-0979801aa/)
+- 📫 How to reach me: [HarisDotNet@outlook.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/haris-qureshi-0979801aa/)
 
 
 ## 🛠️ Skills
